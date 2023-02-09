@@ -1,0 +1,14 @@
+
+Html
+body	{
+    background-color: rgb(69, 167, 209);
+  
+  .myDiv 
+    border: 5px outset red;
+    background-color: lightblue;    
+    text-align: center;
+    p.b {
+        font: italic small-caps bold 12px/30px Georgia, serif;
+      }
+  }
+       
